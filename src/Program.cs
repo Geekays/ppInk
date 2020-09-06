@@ -28,7 +28,7 @@ namespace gInk
             if (frm.Root.FormTop >= 0)
             {
                 frm.Root.callForm = frm;
-                frm.Show();
+                //frm.Show();
                 frm.Top = frm.Root.FormTop;
                 frm.Left = frm.Root.FormLeft;
                 frm.Width = frm.Root.FormWidth;

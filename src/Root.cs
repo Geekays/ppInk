@@ -301,7 +301,7 @@ namespace gInk
 				ShowBalloonSnapshot();
 				UponBalloonSnap = false;
 			}
-            if (callForm != null) callForm.Show();
+            //if (callForm != null) callForm.Show();
         }
 
         public void ClearInk()
